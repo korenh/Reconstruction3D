@@ -83,6 +83,6 @@ cython_debug/
 !.vscode/*.code-snippets
 .history/
 *.vsix
+/model
 /images
-/models
 yolov5s.pt
